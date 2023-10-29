@@ -14,9 +14,11 @@
 
 ### Interests
 
-- Influential programming languages: [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language)), [SmallTalk](https://en.wikipedia.org/wiki/Smalltalk) and more
+- Embodied A.I and field robotics
 
 - Operating systems, distributed and embedded systems and the [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
+
+- Influential programming languages: [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language)), [SmallTalk](https://en.wikipedia.org/wiki/Smalltalk) and more
 
 - Intersection of software and hardware
 
