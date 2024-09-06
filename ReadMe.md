@@ -8,6 +8,8 @@
 
 ### Projects
 
+- [**AI + ML + Robots community group**](https://ai-ml-robots.github.io/) established 2016, rebooted August 2024
+
 - [**Connected Community HackerSpace**](https://www.hackmelbourne.org) (CCHS) Melbourne, established March 2009
 
 - [**Open Hardware MiniConference (OHMC)**](http://www.openhardwareconf.org) an annual hardware workshop, held at the [Linux Conference Australia](https://linux.org.au/linux-conf-au/) (LCA2010 - LCA2022) and then [Everything Open conference](https://everythingopen.au) (2023)
